@@ -1,0 +1,2 @@
+runtime : python39
+entrypoint : gunicore -b:$port main:app
